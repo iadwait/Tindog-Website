@@ -1,0 +1,11 @@
+ 
+GIT Setup
+
+git config --global user.name "Adwait Barkale"
+git config --global user.email "adwaitbarkale@gmail.com"
+touch .gitignore (inside gitignore write files you want to ignore followed with '/')
+git init (creates hidden .git folder)
+git add .
+git commit -m "Initial Commit"
+git status (Check Status)
+git remote add origin -paste git repo url
