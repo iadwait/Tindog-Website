@@ -1,8 +1,8 @@
  
 GIT Setup
 
-git config --global user.name "Adwait Barkale"
-git config --global user.email "adwaitbarkale@gmail.com"
+git config --global user.name "your name
+git config --global user.email "youremail@gmail.com"
 touch .gitignore (inside gitignore write files you want to ignore followed with '/')
 git init (creates hidden .git folder)
 git add .
