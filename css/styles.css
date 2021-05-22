@@ -80,3 +80,11 @@ p {
 .feature-icon:hover {
 	color: #ff4c68;
 }
+
+/*Tstimonials Section*/
+
+#testimonials {
+	background-color: #ff4c68;
+	padding: 7% 15%;
+	text-align: center;
+}
