@@ -134,3 +134,18 @@ p {
 .pricing-column {
 	padding: 3% 2%;
 }
+
+/*Media Query Breakpoints*/
+
+@media (max-width: 1028px) {
+
+.img-iPhone {
+	position: static;
+	transform: rotate(0);
+}
+
+#title {
+	text-align: center;
+}
+
+}
